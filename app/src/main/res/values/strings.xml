@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClaroEnergy</string>
+    <string name="photo_take_string">Take a photo</string>
+    <string name="photo_upload_string">Select a photo</string>
+    <string name="server_upload_string">Ok</string>
+    <string name="cancel_photo_upload_string">Cancel</string>
+    <string name="finish_registration_string">Complete registration</string>
+</resources>
